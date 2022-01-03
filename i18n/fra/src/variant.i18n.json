@@ -19,5 +19,6 @@
 	"missing.setting.in.variant": "Paramètre \"{0}\" manquant dans la définition de variante.",
 	"missing.variant.choice": "Choix de variante \"{0}\" manquant pour \"{1}\" dans la définition de variante.",
 	"incompatible.variant": "La dernière sélection de variante est incompatible avec la définition de variante actuelle.",
-	"using.default.variant.choices": "Utilisation des choix de variantes par défaut à partir de la définition de variante."
+	"using.default.variant.choices": "Utilisation des choix de variantes par défaut à partir de la définition de variante.",
+	"select.a.variant.placeholder": "Sélectionner une variante de build"
 }

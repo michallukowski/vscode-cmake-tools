@@ -19,5 +19,6 @@
 	"missing.setting.in.variant": "Nella definizione di variante manca l'impostazione \"{0}\".",
 	"missing.variant.choice": "Nella definizione di variante manca l'opzione di variante \"{0}\" in \"{1}\".",
 	"incompatible.variant": "La selezione dell'ultima variante non è compatibile con la definizione di variante corrente.",
-	"using.default.variant.choices": "Uso delle opzioni di variante predefinite dalla definizione di variante."
+	"using.default.variant.choices": "Uso delle opzioni di variante predefinite dalla definizione di variante.",
+	"select.a.variant.placeholder": "Selezionare una variante build"
 }

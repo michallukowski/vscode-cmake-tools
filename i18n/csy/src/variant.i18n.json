@@ -19,5 +19,6 @@
 	"missing.setting.in.variant": "Chybí nastavení {0} v definici varianty.",
 	"missing.variant.choice": "V definici varianty chybí volba varianty {0} u {1}.",
 	"incompatible.variant": "Poslední výběr varianty je nekompatibilní s přítomnou definicí varianty.",
-	"using.default.variant.choices": "Používají se výchozí volby variant z definice variant."
+	"using.default.variant.choices": "Používají se výchozí volby variant z definice variant.",
+	"select.a.variant.placeholder": "Vyberte variantu sestavení."
 }

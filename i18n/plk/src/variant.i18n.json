@@ -19,5 +19,6 @@
 	"missing.setting.in.variant": "Brak ustawienia „{0}” w definicji wariantu.",
 	"missing.variant.choice": "Brakuje wyboru wariantu „{0}” dla elementu „{1}” w definicji wariantu.",
 	"incompatible.variant": "Ostatni wybór wariantu jest niezgodny z obecną definicją wariantu.",
-	"using.default.variant.choices": "Użycie domyślnych wyborów wariantu z definicji wariantu."
+	"using.default.variant.choices": "Użycie domyślnych wyborów wariantu z definicji wariantu.",
+	"select.a.variant.placeholder": "Wybierz wariant kompilacji"
 }

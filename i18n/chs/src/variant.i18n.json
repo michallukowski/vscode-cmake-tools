@@ -19,5 +19,6 @@
 	"missing.setting.in.variant": "变量定义中缺少设置“{0}”。",
 	"missing.variant.choice": "变量定义中的“{1}”上缺少变量选项“{0}”。",
 	"incompatible.variant": "最后一个变量选择与当前变量定义不兼容。",
-	"using.default.variant.choices": "使用变量定义中的默认变量选项。"
+	"using.default.variant.choices": "使用变量定义中的默认变量选项。",
+	"select.a.variant.placeholder": "选择生成变体"
 }
